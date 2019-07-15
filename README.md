@@ -15,8 +15,12 @@ and adding an example or two.
 steps to be followed
 
 step 1:
-copy paste tools folder into your arduino sketch folder
+  Windows User
+    copy paste tools/ Folder into your C:Users/User_name/Documents/Arduino/ Folder
+
+  Linux User:
+    copy paste tools/ Folder into your /home/User_name/Arduino/ Folder
 
 step 2:
-add library by opening arduino ide
-going Sketch/include Library/add zip library
+  add library by opening arduino ide
+  going Sketch/include Library/add zip library
